@@ -1,4 +1,4 @@
-# hackle11.uk
+# HackLE11.uk
 
 HackLE11 website - Loughborough Hackspace / Makerspace
 
