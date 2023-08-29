@@ -33,5 +33,5 @@ If you know, you know - Loughborough's postcode (UK equivalent of zip code) is "
 
 ## Who's in?
 
-If enough people are interested in getting involved with something like this, then we can make it happen! Why not read our blog to find out more, and then [join us](/join) if you like what you see :-)
+If enough people are interested in getting involved with something like this, then we can make it happen! Why not read our blog to find out more, and then [join us](/join) if you like what you see.
 
