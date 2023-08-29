@@ -4,7 +4,7 @@ title: "Join HackLE11"
 ---
 ## Join us on Matrix chat
 
-You can find us on Matrix encrypted chat at the [HackLE11 Matrix Space](https://matrix.to/#/#HackLE11:matrix.org) - choose **Element** to get a Microsoft Teams style user interface.
+You can find us on Matrix encrypted chat at the [HackLE11 Matrix Space](https://app.element.io/#/room/#HackLE11:matrix.org) - this uses **Element** to give you a Microsoft Teams style user interface.
 
 ## Tag us on social media
 
