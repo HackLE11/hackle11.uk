@@ -23,7 +23,7 @@ Hackspaces are also about reclaiming the word "hacker", which has become associa
 
 ## What kind of facilities would it have?
 
-Hackspaces typically have a bunch of different kit for making stuff, from sewing machines to 3D printers, CNC machines to lathes and laser cutters. Equipment is often donated, e.g. when units are replaced by corporate owners. Hackspaces usually have to buy their own materials, e.g. filament or resin for 3D printing. But most importantly the hackspace provides a physical space where hackers and makers can get access to kit, tools and supplies.
+Hackspaces typically have a bunch of different kit for making stuff, from sewing machines to 3D printers, CNC machines to lathes and laser cutters. Equipment is often donated, e.g. when items are replaced by corporate owners. Hackspaces usually have to buy their own materials, e.g. filament or resin for 3D printing. But most importantly the hackspace provides a physical space where hackers and makers can get access to kit, tools and supplies.
 
 Computers and electronics are often a big part of a hackspace, and hackspaces can be a great place to learn or brush up on your skills in everything from server and network administration to soldering and programming microcontrollers like the Arduino or Raspberry Pi's RP2040. There will be LED lighting, and probably beanbags.
 
