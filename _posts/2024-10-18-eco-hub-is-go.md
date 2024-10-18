@@ -9,7 +9,7 @@ tags:
 ---
 ## Introducing Charnwood Eco Hub
 
-The Loughborough hackspace / makerspace project is being taken forward by Charnwood Eco Hub, a new not-for-profit shared community hub based in Loughborough. The Eco Hub aims to provide a space to meet, make, fix, create and share sustainable ideas and resources.
+The Loughborough hackspace / makerspace project is being taken forward by [Charnwood Eco Hub](https://charnwoodecohub.org), a new not-for-profit shared community hub based in Loughborough. The Eco Hub aims to provide a space to meet, make, fix, create and share sustainable ideas and resources.
 
 ![Charnwood Eco Hub / SOFA collaboration](/assets/images/charnwood-eco-hub-sofa-collaboration.jpg)
 
