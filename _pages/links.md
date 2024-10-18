@@ -4,6 +4,10 @@ title: "Links"
 ---
 ## In Loughborough
 
+[Charnwood Eco Hub](https://charnwoodecohub.org)
+
+Charnwood Eco Hub is a not-for-profit, shared community hub based in Loughborough. Our aim is to provide a space to meet, make, fix, create and share sustainable ideas and resources.
+
 [Transition Loughborough](https://transitionloughborough.wordpress.com/)
 
 Transition Loughborough is a community driven movement aimed at reducing the dependence on fossil fuels and promoting local infrastructure.

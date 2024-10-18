@@ -5,7 +5,7 @@ title: "About HackLE11"
 
 ## What's this all about?
 
-HackLE11 is a project to set up a hackspace / makerspace for [Loughborough](https://en.wikipedia.org/wiki/Loughborough), in the UK's East Midlands. Loughborough is a large market town with around 60,000 residents and several major employers including a [top ten University](https://www.lboro.ac.uk). 
+This is a project to set up a hackspace / makerspace for [Loughborough](https://en.wikipedia.org/wiki/Loughborough), in the UK's East Midlands. Loughborough is a large market town with around 60,000 residents and several major employers including a [top ten University](https://www.lboro.ac.uk). 
 
 Loughborough has strong tradition of engineering which has included companies manufacturing [bells](https://en.wikipedia.org/wiki/John_Taylor_%26_Co), [cranes](https://www.gracesguide.co.uk/Herbert_Morris) and [generators](https://en.wikipedia.org/wiki/Brush_Electrical_Machines) for electric and gas turbines amongst many others. Loughborough doesn't have a hackspace, yet, but we aim to change that!
 
@@ -33,5 +33,7 @@ If you know, you know - Loughborough's postcode (UK equivalent of zip code) is "
 
 ## Who's in?
 
-If enough people are interested in getting involved with something like this, then we can make it happen! Why not read our blog to find out more, and then [join us](/join) if you like what you see.
+The Loughborough hackspace / makerspace project is being taken forward by the [Charnwood Ec
+o Hub](https://charnwoodecohub.org) - please check out the Eco Hub website for [volunteerin
+g opportunities](https://charnwoodecohub.org/updates/volunteering/).
 
